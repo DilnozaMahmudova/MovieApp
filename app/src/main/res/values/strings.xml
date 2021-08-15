@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFirstAppKotlin</string>
+    <string name="sales_icon">Sales</string>
+    <string name="filter_icon">Filter</string>
+    <string name="contacts_text">Contacts</string>
+    <string name="about_text">About</string>
+    <string name="home_text">Home</string>
+    <string name="course_text">Course</string>
+    <string name="app_text">App</string>
+    <string name="course_start_date">Старт обучения:</string>
+    <string name="course_level">Уровень:</string>
+    <string name="course_desc">Программа обучения Джава – рассчитанана новичков в данной сфере. За программу вы изучите построение графических приложений под ПК, разработку веб сайтов на основе Java Spring Boot, изучите построение полноценных Андроид приложений и отлично изучите сам язык Джава!</string>
+</resources>
